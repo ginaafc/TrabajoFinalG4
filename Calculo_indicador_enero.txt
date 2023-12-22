@@ -1,0 +1,8 @@
+<INICIO>
+Realizar segmentación areas in ('Planeamiento','Gerencia','Tecnologia','Atencion al cliente')
+Ejecutar indicadores
+Indicador_1
+Indicador_2
+Indicador_3
+Exportar calculo de indicadores
+<FIN>
